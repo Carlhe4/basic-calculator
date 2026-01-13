@@ -9,7 +9,6 @@ dotnet run
 ```
 
 Client:
-
 ```
 cd client
 npm install
