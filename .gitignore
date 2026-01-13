@@ -1,0 +1,10 @@
+# build outputs
+bin/
+obj/
+
+# node
+client/node_modules/
+client/dist/
+
+# logs
+*.log
